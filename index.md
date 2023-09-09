@@ -12,6 +12,6 @@ This project includes my plots as well as code for the weekly #tidytuesday chall
 
 ---
 
-### Three-point Revolution
+### NBA: Three-point Revolution
 
 ---
