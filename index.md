@@ -12,6 +12,9 @@ This project includes my plots as well as code for the weekly #tidytuesday chall
 
 ---
 
-### NBA: Three-point Revolution
+## Research
+This project...
+
+<img src="images/ECMO Duration Poster.jpeg?raw=true"/>
 
 ---
