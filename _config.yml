@@ -2,8 +2,8 @@ title: Kyle Torres # your name (or website title) here
 logo: "/images/Profile picture.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Hi, I'm Kyle! I'm a junior at Pomona College. I'm a Math major with a concentration in Statistics, and I'm also an Economics minor. I am passionate about pursuing data science because of its interdisciplinary nature. I am particularly interested in applying machine learning techniques.
-  <br><br>
+  Hi, I'm Kyle! I'm a junior at Pomona College. I'm a Math major with a concentration in Statistics, and I'm also an Economics minor. I am passionate about pursuing data science and am particularly interested in applying machine learning techniques.
+  <br>
   <a href="https://www.linkedin.com/in/kyle-torres-7093521b3/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
