@@ -23,3 +23,11 @@ ECMO is a medical device that provides life support for patients in need of a he
 <img src="images/ECMO Duration Poster.jpeg?raw=true"/>
 
 ---
+
+### Analyzing Missing Data in the Stanford Open Policing Project
+
+ECMO is a medical device that provides life support for patients in need of a heart-transplant. I collaborated with mentor Dr. Eric Kawaguchi and my peers to examine whether the duration of being on ECMO was associated with worse health outcomes post-transplantation. In our research, we implemented various statistical models such as survival analysis and multinomial regression.
+
+<img src="images/ECMO Duration Poster.jpeg?raw=true"/>
+
+---
