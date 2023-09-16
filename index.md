@@ -26,8 +26,8 @@ ECMO is a medical device that provides life support for patients in need of a he
 
 ### Analyzing Missing Data in the Stanford Open Policing Project
 
-ECMO is a medical device that provides life support for patients in need of a heart-transplant. I collaborated with mentor Dr. Eric Kawaguchi and my peers to examine whether the duration of being on ECMO was associated with worse health outcomes post-transplantation. In our research, we implemented various statistical models such as survival analysis and multinomial regression.
+I worked with a peer under the guidance of Professor Jo Hardin to research how to characterize missing racial data in the Stanford Open Policing Project . We utilized 23 municipal and state-wide datasets in our analysis. To characterize the missing racial data, we calculated metrics such as odds ratios and created supplemental plots in R to reveal patterns. By the end of our research, we identified a range of possible odds ratios for each area and demonstrated the extent to which missing data could have impacted/biased the datasets as they were provided.
 
-<img src="images/ECMO Duration Poster.jpeg?raw=true"/>
+<img src="images/or_plot.png?raw=true"/>
 
 ---
