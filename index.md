@@ -22,7 +22,7 @@ ECMO is a medical device that provides life support for patients in need of a he
 
 <img src="images/ECMO Duration Poster.jpeg?raw=true"/>
 
-[View poster here](https://github.com/kyledtorres/kyledtorres.github.io/blob/master/images/ECMO%20Duration%20Poster.jpeg)
+[View poster](https://github.com/kyledtorres/kyledtorres.github.io/blob/master/images/ECMO%20Duration%20Poster.jpeg)
 
 ---
 
@@ -32,6 +32,6 @@ I worked with a peer under the guidance of Professor Jo Hardin to research how t
 
 <img src="images/or_plot.png?raw=true"/>
 
-[View poster here](https://github.com/kyledtorres/kyledtorres.github.io/blob/master/images/SURP%202022%20Poster.jpeg)
+[View poster](https://github.com/kyledtorres/kyledtorres.github.io/blob/master/images/SURP%202022%20Poster.jpeg)
 
 ---
