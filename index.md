@@ -30,7 +30,7 @@ ECMO is a medical device that provides life support for patients in need of a he
 
 As part of the Summer Undergraduate Research Program (SURP) at Pomona College, I worked with a peer under the guidance of Statistics Professor Jo Hardin to research ways to characterize missing racial data in the Stanford Open Policing Project. In total, we utilized 23 municipal and state-wide datasets in our analysis. We used odds ratios as a metric to inform potential imputations for the missing racial data and created supplemental plots in R to reveal trends in the data. By the end of our research, we identified a range of possible odds ratios for each state/municipality and demonstrated the extent to which missing data could have impacted/biased the datasets as they were provided.
 
-<img src="images/or_plot.png?raw=true"/>
+<img src="images/SURP%202022%20Poster.jpeg?raw=true"/>
 
 [View poster](https://github.com/kyledtorres/kyledtorres.github.io/blob/master/images/SURP%202022%20Poster.jpeg)
 
