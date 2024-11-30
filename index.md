@@ -16,9 +16,19 @@ TidyTuesday is a weekly data project organized by the R4DS Online Learning Commu
 
 ---
 
+### AI for Justice
+
+Through the USC Biostatistics and Data Science Summer Training Program, I collaborated with Biostatistics Professor Dr. Eric Kawaguchi and my peers on a project to examine whether the duration of being on ECMO (a medical device that provides life support for patients in need of a heart-transplant) was associated with worse health outcomes post-transplantation. In our research, we used R to implement various statistical models such as Cox regression and multinomial logistic regression. We concluded that duration on ECMO did not impact treated rejection episodes or post-transplant mortality.
+
+<img src="images/The-Innocence-Center-Logo.jpeg?raw=true"/>
+
+[View poster](https://github.com/kyledtorres/kyledtorres.github.io/blob/master/pdf/2024%20AI%20for%20Justice%20Final%20Presentation.pdf)
+
+---
+
 ### Effect of ECMO Duration on Post-Transplant Survival
 
-ECMO is a medical device that provides life support for patients in need of a heart-transplant. I collaborated with Biostatistics Professor Dr. Eric Kawaguchi and my peers on a project as part of the USC Biostatistics and Data Science Summer Training Program to examine whether the duration of being on ECMO was associated with worse health outcomes post-transplantation. In our research, we used R to implement various statistical models such as Cox regression and multinomial logistic regression.
+Through the USC Biostatistics and Data Science Summer Training Program, I collaborated with Biostatistics Professor Dr. Eric Kawaguchi and my peers on a project to examine whether the duration of being on ECMO (a medical device that provides life support for patients in need of a heart-transplant) was associated with worse health outcomes post-transplantation. In our research, we used R to implement various statistical models such as Cox regression and multinomial logistic regression. We concluded that duration on ECMO did not impact treated rejection episodes or post-transplant mortality.
 
 <img src="images/ECMO Duration Poster.jpeg?raw=true"/>
 
