@@ -18,7 +18,7 @@ TidyTuesday is a weekly data project organized by the R4DS Online Learning Commu
 
 ### AI for Justice
 
-During the Computational and Applied Mathematics REU at UCLA, I collaborated with Mathematics Professor Deanna Needell and my peers on a project titled "AI for Justice," aimed at developing a model to predict wrongful convictions. Our analysis incorporated topic-modeling algorithms, including non-negative matrix factorization (NMF) and its variations. Beyond processing the full corpus of text, we utilized ChatGPT to generate concise case summaries and analyzed the resulting vector embeddings for additional insights. To enhance classification performance, we implemented semi-supervised NMF, integrating label information within the NMF framework. I conducted the analysis using Python.
+During the Computational and Applied Mathematics REU at UCLA, I collaborated with Mathematics Professor Deanna Needell, my peers, and the Innocence Center on a project titled "AI for Justice," aimed at developing a model to predict wrongful convictions. Our analysis incorporated topic-modeling algorithms, specifically non-negative matrix factorization (NMF) and its variations. Beyond processing the full corpus of text, we utilized ChatGPT to generate concise case summaries and analyzed the resulting vector embeddings for additional insights. To enhance classification performance, we implemented semi-supervised NMF, integrating label information within the NMF framework. I conducted the analysis using Python.
 
 <img src="images/The-Innocence-Center-Logo.jpeg?raw=true"/>
 
