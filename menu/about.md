@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 permalink: /about
+image: Full Body Picture.jpg
 ---
 
 <div class="row">
