@@ -1,19 +1,24 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About Me
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+<div class="row">
+    <div class="four columns">
+        <img align="left" src="{{ site.url }}/images/Full Body Picture.jpg" alt="Photo" width="100%">
+    </div>
+    <div class="eight columns">
+	  <br>  
+        <div class="titles">
+            MS candidate in Applied Statistics and Data Science, UCLA
+            BA in Mathematics, Pomona College
+	      <br>	
+	      <p class="contact"><i class="muted">Contact:</i> kyledtorres@gmail.com</p>
+	  </div>
+    </div>
+</div>
 
-### Getting Started
+<hr>
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+<p>Hi, I'm Kyle! I'm currently an MS candidate in Applied Statistics and Data Science at UCLA. I'm passionate about pursuing a career in data science and am particularly interested in the applications of generative AI to solve complex problems.
