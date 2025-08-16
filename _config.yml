@@ -21,9 +21,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Kyle Torres'
-tagline:             'personal website and portfolio'
-#description:	       'personal website and portfolio'
-# author:              'Kyle Torres'
+description:	       'personal website and portfolio'
+author:              'Kyle Torres'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
