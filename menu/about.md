@@ -6,7 +6,7 @@ permalink: /about
 
 <div class="row">
     <div class="four columns">
-        <img align="left" src="{{ site.url }}/images/Full Body Picture.jpg" alt="Photo" width="100%">
+        <img align="left" src="{{ site.url }}/images/Full Body Picture.jpg" alt="Photo" width="40%">
     </div>
     <div class="eight columns">
 	  <br>  
