@@ -7,7 +7,8 @@ image: Full Body Picture.jpg
 
 <div class="row" style="display:flex; align-items:center;">
     <div class="four columns">
-        <img src="{{ site.url }}/images/Grad picture.jpg"
+        <img align="left"
+			src="{{ site.url }}/images/Grad picture.jpg"
 			alt="Photo" 
 			width="40%" 
 			style="margin-right:20px;">
