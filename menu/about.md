@@ -7,7 +7,7 @@ image: Full Body Picture.jpg
 
 <div class="row">
     <div class="four columns">
-        <img align="left" src="{{ site.url }}/images/Full Body Picture.jpg" alt="Photo" width="40%">
+        <img align="left" src="{{ site.url }}/images/Grad picture.jpg" alt="Photo" width="40%">
     </div>
     <div class="eight columns">
 	  <br>  
