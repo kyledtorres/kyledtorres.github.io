@@ -10,8 +10,8 @@ image: Full Body Picture.jpg
         <img align="left"
 			src="{{ site.url }}/images/Grad picture.jpg"
 			alt="Photo" 
-			width="40%" 
-			style="margin-right:20px;">
+			width="50%" 
+			style="margin-right:10px;">
     </div>
     <div class="eight columns">
 	  <br>  
