@@ -9,8 +9,8 @@ image: Full Body Picture.jpg
     <div>
         <img src="{{ site.url }}/images/Grad picture.jpg"
 			alt="Photo" 
-			width="120"
-			style="margin-right:10px;">
+			width="240"
+			style="margin-right:15px;">
     </div> 
         <div class="titles">
             MS candidate in Applied Statistics and Data Science, UCLA<br>
