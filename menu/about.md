@@ -6,15 +6,12 @@ image: Full Body Picture.jpg
 ---
 
 <div class="row" style="display:flex; align-items:center;">
-    <div class="four columns">
-        <img align="left"
-			src="{{ site.url }}/images/Grad picture.jpg"
+    <div>
+        <img src="{{ site.url }}/images/Grad picture.jpg"
 			alt="Photo" 
-			width="70%" 
-			style="margin-right:5px;">
-    </div>
-    <div class="eight columns">
-	  <br>  
+			width="120"
+			style="margin-right:10px;">
+    </div> 
         <div class="titles">
             MS candidate in Applied Statistics and Data Science, UCLA<br>
             BA in Mathematics, Pomona College
