@@ -15,7 +15,7 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'linkedin',   link: 'https://www.linkedin.com/in/kyle-torres-7093521b3/'}
-- {icon: 'bookmark,    link: 'https://kyledtorres.substack.com/'}
+- {icon: 'bookmark',    link: 'https://kyledtorres.substack.com/'}
 - {icon: 'github',     link: 'https://www.github.com/kyledtorres'}
 - {icon: 'envelope',   link: 'mailto:kyledtorres03@gmail.com'}
 
