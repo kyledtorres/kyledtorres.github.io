@@ -11,7 +11,7 @@ My research experiences have primarily focused on exploring the applications of 
 
 Latent Dirichlet Allocation (LDA) is one of the most popular topic-modeling algorithms in use today. In this work, I describe a method for deriving the posterior distribution used in LDA and create a hybrid model in which I combine LDA with a baseline retrieval-augmented generation (RAG) model. I find that this hybrid model outperforms the baseline RAG model in several areas including accuracy and processing time. These results highlight the potential for LDA to be incorporated in modern RAG-based models as a means of extending their performance from closed-book question answering (QA) tasks to open-domain QA tasks.
 
-[PDF](https://kyledtorres.github.io/pdf/Thesis.pdf)
+[Thesis](https://kyledtorres.github.io/pdf/Thesis.pdf), [PDF](https://kyledtorres.github.io/pdf/Final Thesis Presentation.pdf)
 
 
 ### AI for Justice
@@ -21,7 +21,9 @@ During the Computational and Applied Mathematics REU at UCLA, I collaborated wit
 
 ### Effect of ECMO Duration on Post-Transplant Survival
 
-Through the USC Biostatistics and Data Science Summer Training Program, I collaborated with Biostatistics Professor Eric Kawaguchi and my peers on a project to examine whether the duration of being on ECMO (a medical device that provides life support for patients in need of a heart-transplant) was associated with worse health outcomes post-transplantation. In our research, we used R to implement various statistical models such as Cox regression and multinomial logistic regression. We concluded that duration on ECMO did not impact treated rejection episodes or post-transplant mortality.
+Through the USC Biostatistics and Data Science Summer Training Program, I collaborated with Biostatistics faculty and peers to analyze whether patients' time spent on ECMO (a life-support device) before heart transplant impacted post-transplant outcomes, applying models such as Cox regression and multinomial logistic regression in R.
+
+[PDF](https://kyledtorres.github.io/pdf/Thesis.pdf)
 
 
 ### Analyzing Missing Data in the Stanford Open Policing Project
