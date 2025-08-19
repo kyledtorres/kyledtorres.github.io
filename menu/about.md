@@ -10,8 +10,9 @@ image: Full Body Picture.jpg
         <img src="{{ site.url }}/images/Grad picture.jpg"
 			alt="Photo" 
 			width="240"
-			style="margin-right:15px;">
+			style="margin-right:20px;">
     </div> 
+	<div> 
         <div class="titles">
             MS candidate in Applied Statistics and Data Science, UCLA<br>
             BA in Mathematics, Pomona College
