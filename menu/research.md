@@ -14,9 +14,7 @@ In my thesis, I describe a method for deriving the posterior distribution used i
 
 [Write-up](https://kyledtorres.github.io/pdf/Thesis.pdf), [Presentation](https://kyledtorres.github.io/pdf/Final Thesis Presentation.pdf)
 
-<br>
-
----
+<hr style="margin:30px 0;">
 
 ### AI for Justice
 
@@ -24,7 +22,7 @@ At UCLA’s Computational and Applied Mathematics REU, I worked with faculty, pe
 
 [Write-up](https://kyledtorres.github.io/pdf/AI for Justice writeup.pdf), [Presentation](https://kyledtorres.github.io/pdf/2024 AI for Justice Final Presentation.pdf)
 
----
+<hr style="margin:30px 0;">
 
 ### Effect of ECMO Duration on Post-Transplant Survival
 
@@ -32,7 +30,7 @@ Through the USC Biostatistics and Data Science Summer Training Program, I collab
 
 [Presentation](https://kyledtorres.github.io/pdf/ECMO_Duration_Presentation_Final.pdf), [Poster](https://kyledtorres.github.io/pdf/ECMO Duration Poster.jpeg)
 
----
+<hr style="margin:30px 0;">
 
 ### Analyzing Missing Data in the Stanford Open Policing Project
 
