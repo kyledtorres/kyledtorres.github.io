@@ -16,13 +16,15 @@ In my thesis, I describe a method for deriving the posterior distribution used i
 
 <br>
 
+---
+
 ### AI for Justice
 
 At UCLA’s Computational and Applied Mathematics REU, I worked with faculty, peers, and the Innocence Center on a project developing a model to predict wrongful convictions using topic modeling algorithms such as non-negative matrix factorization, with all analysis conducted in Python.
 
 [Write-up](https://kyledtorres.github.io/pdf/AI for Justice writeup.pdf), [Presentation](https://kyledtorres.github.io/pdf/2024 AI for Justice Final Presentation.pdf)
 
-<br>
+---
 
 ### Effect of ECMO Duration on Post-Transplant Survival
 
@@ -30,7 +32,7 @@ Through the USC Biostatistics and Data Science Summer Training Program, I collab
 
 [Presentation](https://kyledtorres.github.io/pdf/ECMO_Duration_Presentation_Final.pdf), [Poster](https://kyledtorres.github.io/pdf/ECMO Duration Poster.jpeg)
 
-<br>
+---
 
 ### Analyzing Missing Data in the Stanford Open Policing Project
 
