@@ -13,8 +13,8 @@ image: Full Body Picture.jpg
     </div> 
     <div> 
         <div class="titles">
-            MS candidate in Applied Statistics and Data Science, UCLA<br>
-            BA in Mathematics, Pomona College
+            MS candidate for Applied Statistics and Data Science, <a href="https://statistics.ucla.edu/">UCLA</a><br>
+            BA in Mathematics, <a href="https://www.pomona.edu/">Pomona College</a>
             <br>    
             <p class="contact">
                 <i class="muted">Contact:</i> kyledtorres@gmail.com
