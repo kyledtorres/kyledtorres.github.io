@@ -16,7 +16,7 @@ permalink: /about
             BA in Mathematics, <a href="https://www.pomona.edu/">Pomona College</a>
             <br>    
             <p class="contact">
-                <i class="muted">Contact:</i> kyledtorres@gmail.com
+                <i class="muted">Contact:</i> kyledtorres03@gmail.com
             </p>
         </div>
     </div>
@@ -29,5 +29,5 @@ permalink: /about
 </div>
 
 <p>
-	Hi, I'm Kyle! I'm currently an MS candidate in Applied Statistics and Data Science at UCLA. I'm passionate about pursuing a career in 		data science and am particularly interested in the applications of generative AI to solve complex problems.
+	Hi, I'm Kyle! I'm currently an MS candidate for Applied Statistics and Data Science at UCLA. I'm passionate about pursuing a career in 		data science and am particularly interested in the applications of generative AI to solve complex problems.
 </p>
