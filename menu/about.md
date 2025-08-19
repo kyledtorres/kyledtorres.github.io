@@ -5,22 +5,21 @@ permalink: /about
 image: Full Body Picture.jpg
 ---
 
-<div class="row" style="display:flex; align-items:center;">
+<div class="row" style="display:flex; align-items:center; gap:20px;">
     <div>
         <img src="{{ site.url }}/images/Grad picture.jpg"
-			alt="Photo" 
-			width="240"
-			style="margin-right:20px;">
+             alt="Photo" 
+             width="240">
     </div> 
-	<div> 
+    <div> 
         <div class="titles">
             MS candidate in Applied Statistics and Data Science, UCLA<br>
             BA in Mathematics, Pomona College
-	      <br>	
-	      <p class="contact">
-			  <i class="muted">Contact:</i> kyledtorres@gmail.com
-		  </p>
-	  </div>
+            <br>    
+            <p class="contact">
+                <i class="muted">Contact:</i> kyledtorres@gmail.com
+            </p>
+        </div>
     </div>
 </div>
 
