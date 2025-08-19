@@ -9,4 +9,4 @@ TidyTuesday is a weekly data project organized by the R4DS Online Learning Commu
 
 <img src="{{ site.url }}/images/TidyTuesday.jpg"/>
 
-[View figures here:](https://github.com/kyledtorres/tidytuesday)
+[View figures here](https://github.com/kyledtorres/tidytuesday)
