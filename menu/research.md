@@ -28,7 +28,7 @@ At UCLA’s Computational and Applied Mathematics REU, I worked with faculty, pe
 
 Through the USC Biostatistics and Data Science Summer Training Program, I collaborated with Biostatistics faculty and peers to analyze whether patients' time spent on ECMO (life-support device) before heart transplant impacted post-transplant outcomes, applying models such as Cox regression and multinomial logistic regression in R.
 
-[Presentation](https://kyledtorres.github.io/pdf/pdf/ECMO_Duration_Presentation Final.pdf), [Poster](https://kyledtorres.github.io/pdf/ECMO Duration Poster.jpeg)
+[Presentation](https://kyledtorres.github.io/pdf/ECMO_Duration_Presentation.pdf), [Poster](https://kyledtorres.github.io/pdf/ECMO Duration Poster.jpeg)
 
 <hr style="margin:40px 0;">
 
