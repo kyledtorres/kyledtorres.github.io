@@ -25,7 +25,7 @@ image: Full Body Picture.jpg
 
 <div class="row">
     <div class="twelve columns">
-        <hr>
+        <hr style="margin:30px 0;">
     </div>
 </div>
 
