@@ -11,6 +11,8 @@ My research experiences have primarily focused on exploring the applications of 
 
 Latent Dirichlet Allocation (LDA) is one of the most popular topic-modeling algorithms in use today. In this work, I describe a method for deriving the posterior distribution used in LDA and create a hybrid model in which I combine LDA with a baseline retrieval-augmented generation (RAG) model. I find that this hybrid model outperforms the baseline RAG model in several areas including accuracy and processing time. These results highlight the potential for LDA to be incorporated in modern RAG-based models as a means of extending their performance from closed-book question answering (QA) tasks to open-domain QA tasks.
 
+[PDF](https://github.com/kyledtorres.github.io/menu/pdf/Thesis.pdf)
+
 
 ### AI for Justice
 
