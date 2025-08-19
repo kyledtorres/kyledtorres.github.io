@@ -28,7 +28,7 @@ At UCLA’s Computational and Applied Mathematics REU, I worked with faculty, pe
 
 Through the USC Biostatistics and Data Science Summer Training Program, I collaborated with Biostatistics faculty and peers to analyze whether patients' time spent on ECMO (life-support device) before heart transplant impacted post-transplant outcomes, applying models such as Cox regression and multinomial logistic regression in R.
 
-[Presentation](https://kyledtorres.github.io/pdf/ECMO_Duration_Presentation_Final.pdf), [Poster](https://kyledtorres.github.io/pdf/ECMO Duration Poster.jpeg)
+[Presentation](https://kyledtorres.github.io/pdf/pdf/ECMO_Duration_Presentation Final.pdf), [Poster](https://kyledtorres.github.io/pdf/ECMO Duration Poster.jpeg)
 
 <hr style="margin:40px 0;">
 
@@ -36,4 +36,4 @@ Through the USC Biostatistics and Data Science Summer Training Program, I collab
 
 Through Pomona College’s Summer Undergraduate Research Program, I analyzed 23 traffic-stop datasets from the Stanford Open Policing Project with faculty and peers to assess bias from missing racial data, using odds ratios and R-based visualizations to evaluate potential imputations and reveal the impact of missingness on results.
 
-[Write-up](https://kyledtorres.github.io/pdf/SURP writeup.pdf), [Poster](https://kyledtorres.github.io/pdf/SURP 2022 Poster.jpeg)
+[Write-up](https://kyledtorres.github.io/pdf/SURP writeup.pdf), [Poster](https://kyledtorres.github.io/pdf/SURP 2022 Poster.pdf)
